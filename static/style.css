@@ -1,0 +1,18 @@
+body {
+    background-color: #EAD9FF;
+}
+
+h1 {
+  font-family: Geneva, Tahoma, Verdana, sans-serif;
+  font-style: normal;
+  color: #330066;
+}
+p {
+    text-align: center;
+}
+camera_button {
+    background-color:white;
+    font-style: normal;
+    text-align: center;
+}
+
